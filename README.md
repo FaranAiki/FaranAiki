@@ -1,13 +1,13 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Faran Aiki!%20👋&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Product%20Manager&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Greetings,%20I'm%20Faran%20Aiki!%20&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Product%20Manager&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/faranaiki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Low-Level Programming & Website Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Low-Level%20Programming%20&%20Website%20Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
   </a>
 </div>
 
