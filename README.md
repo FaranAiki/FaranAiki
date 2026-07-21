@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/faranaiki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Low-Level%20Programming%20&%20Website%20Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Apps;Low-Level%20Programming%20&%20Website%20Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,11 +15,10 @@
 
 ### About Me
 
-I am a passionate **Full-Stack Developer** and **Product Manager** based in Indonesia, specializing in building robust, responsive & visually stunning web applications.
+I am a passionate **Full-Stack Developer**, **Product Manager**, and currently experimenting in C & LLVM based in Indonesia, specializing in building robust, responsive & visually stunning web applications.
 
 - I'm currently developing a programming language called [Alkyl](https://github.com/FaranAiki/alkyl)
 - Moreover, I’m currently exploring advanced **Product Management** strategies (GDG ITB).
-- Ask me about **Frontend Architecture, UI/UX Design, or Next.js**.
 - How to reach me: [LinkedIn](https://linkedin.com/) or via email.
 
 ---
@@ -54,7 +53,7 @@ I am a passionate **Full-Stack Developer** and **Product Manager** based in Indo
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 </div>
@@ -66,14 +65,14 @@ I am a passionate **Full-Stack Developer** and **Product Manager** based in Indo
 
 ---
 
-### 🏆 Milestones & Contributions
+### Milestones & Contributions
 
-- 🥇 **Impact 6.0 Web Lead:** Designed and managed a platform for 1100+ students nationwide.
-- 👨‍💻 **GDGOC ITB:** Actively exploring and learning product management.
-- ⚡ **Optimization:** Streamlined workflow data processing up to 3x faster via structured scripting.
+- **Impact 6.0 Web Lead:** Designed and managed a platform for 1100+ students nationwide.
+- **GDGOC ITB:** Actively exploring and learning product management.
+- **Optimization:** Streamlined workflow data processing up to 3x faster via structured scripting.
 
 <div align="center">
-  <i>Let's build something amazing together!</i>
+  <i>Fun Fact: "Faran Aiki" means to love moving forward!</i>
 </div>
 
 <!-- Footer -->
