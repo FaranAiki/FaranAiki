@@ -1,32 +1,37 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Faran!%20👋&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Product%20Manager&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Faran Aiki!%20👋&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Product%20Manager&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/faranaiki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Exploring+Product+Management;Next.js+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Low-Level Programming & Website Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a passionate **Full-Stack Developer** and **Product Manager** based in Indonesia, specializing in building robust, responsive, and visually stunning web applications.
+I am a passionate **Full-Stack Developer** and **Product Manager** based in Indonesia, specializing in building robust, responsive & visually stunning web applications.
 
-- 🔭 I’m currently leading web development using **Next.js, TypeScript, TailwindCSS**, and **Supabase/Prisma**.
-- 🌱 I’m currently exploring advanced **Product Management** strategies (GDG ITB).
-- 💬 Ask me about **Frontend Architecture, UI/UX Design, or Next.js**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/) or via email.
+- I'm currently developing a programming language called [Alkyl](https://github.com/FaranAiki/alkyl)
+- Moreover, I’m currently exploring advanced **Product Management** strategies (GDG ITB).
+- Ask me about **Frontend Architecture, UI/UX Design, or Next.js**.
+- How to reach me: [LinkedIn](https://linkedin.com/) or via email.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
+  **Programming Language**<br>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/><br/>
 
   **Frontend**<br>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -37,6 +42,7 @@ I am a passionate **Full-Stack Developer** and **Product Manager** based in Indo
   **Backend & Database**<br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -51,16 +57,12 @@ I am a passionate **Full-Stack Developer** and **Product Manager** based in Indo
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faranaiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Faran's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faranaiki&theme=tokyonight&hide_border=true&background=0D1117" alt="Faran's GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranaiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 ---
 
