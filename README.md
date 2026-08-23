@@ -1,13 +1,13 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Greetings,%20I'm%20Faran%20Aiki!%20&fontSize=50&fontAlignY=35&desc=Not really a Programmer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Greetings,%20I'm%20Faran%20Aiki!%20&fontSize=50&fontAlignY=35&desc=Not%20really%20a%20Programmer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/faranaiki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Apps;Low-Level%20Programming%20&%20Website%20Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Experimenting+Web+Apps;Low-Level+Programming&%20Website%20Developer;C+%7C+LLVM+%7C+NextJS" alt="Typing SVG" />
   </a>
 </div>
 
