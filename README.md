@@ -27,6 +27,7 @@ I am not a programmer nor someone great to be honest. However, if I were to AI-s
 ### Tech Stack
 
 <div align="center">
+  
   **Programming Language** <br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
